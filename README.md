@@ -1,10 +1,10 @@
-🚗 Vehicle Market Analysis Dashboard
+### Vehicle Market Analysis Dashboard 🚗
 
 An interactive data analysis dashboard built to explore used vehicle listings and uncover patterns in pricing, mileage, vehicle characteristics, and listing activity.
 
 🔗 **[View Live Dashboard](https://vehicle-market-analysis.onrender.com/)**
 
-📌 Overview
+**Overview**
 
 This project analyzes a dataset containing **51,525 used vehicle listings**.
 
@@ -13,31 +13,41 @@ The goal was to transform raw vehicle listing data into an interactive dashboard
 The dashboard was developed with **Python and Streamlit**, with data manipulation performed using **Pandas** and interactive visualizations created with **Plotly**.
 
 
-🔗 Live Dashboard
+**Live Dashboard**
 
 ![alt text](image.png)
 
 
-✨ Key Features
+**Key Features**
+
 • Dynamic KPIs
+
 • Interactive filters
+
 • Price & mileage analysis
+
 • Vehicle characteristics
+
 • Listing activity
 
 
-💡 Key Insights
+**Key Insights**
+
 • Median price: $9,000
+
 • Median mileage: 113,000 miles
+
 • 75% listed ≤ 53 days
+
 • Price distribution contains a strong upper tail
 
 
-🛠 Tech Stack
+**Tech Stack**
+
 Python | Pandas | Plotly | Streamlit | Jupyter
 
 
-📁 Project Structure
+📁 **Project Structure**
 
 Sprint_5_Project/
 ├── notebooks/
@@ -50,11 +60,11 @@ Sprint_5_Project/
 └── README.md
 
 
-🚀 Run Locally
+**Run Locally**
 
-git clone ...
-pip install -r requirements.txt
-streamlit run app.py
+• git clone ...
+• pip install -r requirements.txt
+• streamlit run app.py
 
 
-👤 Frederico Bonatti Buiatti e Espindola - Data Analyst
+Frederico Bonatti Buiatti e Espindola - Data Analyst
