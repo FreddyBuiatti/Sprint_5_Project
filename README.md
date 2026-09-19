@@ -67,4 +67,4 @@ Sprint_5_Project/
 • streamlit run app.py
 
 
-Frederico Bonatti Buiatti e Espindola - Data Analyst
+Frederico Bonatti Buiatti - Data Analyst
